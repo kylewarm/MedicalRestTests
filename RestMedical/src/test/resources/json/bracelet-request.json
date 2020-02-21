@@ -1,0 +1,1 @@
+{"query":"\n query bracelets {\n  bracelets {\n    guid\n    braceletId\n    pin\n  }\n}"}
